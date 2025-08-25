@@ -1,5 +1,3 @@
-# ChatWithPDF-using-Langchain
-Upload any pdf and ask n number of questions on any topic present in the pdf that will be answered by gemini 2.5 pro model which would first analyse the complete document chunk by chunk.
 # ChatWithPDF using Langchain
 
 ChatWithPDF-using-Langchain is a web application that allows users to chat with PDF documents using natural language queries. Built with LangChain, this project leverages modern NLP techniques to enable users to extract information, summarize content, and interact conversationally with the contents of any PDF.
