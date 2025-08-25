@@ -75,15 +75,10 @@ ChatWithPDF-using-Langchain is a web application that allows users to chat with 
 
 Contributions are welcome! Please open an issue or submit a pull request for bug fixes, improvements, or new features.
 
-## License
-
-This project is licensed under the MIT License.
 
 ## Acknowledgements
 
 - [LangChain](https://github.com/hwchase17/langchain)
-- [OpenAI](https://openai.com/)
-- [Streamlit](https://streamlit.io/)
 - [PyPDF2](https://github.com/py-pdf/PyPDF2)
 
 ---
