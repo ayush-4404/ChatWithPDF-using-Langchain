@@ -12,8 +12,7 @@ ChatWithPDF-using-Langchain is a web application that allows users to chat with 
 
 ## Tech Stack
 
-- **Backend:** [LangChain](https://github.com/hwchase17/langchain), FastAPI
-- **Frontend:** Streamlit (or your chosen UI framework)
+- **Backend:** [LangChain](https://github.com/hwchase17/langchain)
 - **PDF Parsing:** PyPDF2 / PDFPlumber
 - **Embeddings/LLM:** OpenAI API or any supported LLM provider
 
