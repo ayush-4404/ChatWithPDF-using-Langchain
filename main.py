@@ -5,13 +5,13 @@ load_dotenv()
 
 import torch
 from langchain_community.document_loaders import PyPDFLoader
-from langchain.text_splitter import RecursiveCharacterTextSplitter
+from langchain_text_splitters import RecursiveCharacterTextSplitter
 # from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_community.vectorstores import Chroma
 # from langchain.llms import LlamaCpp
-from langchain.memory import ConversationBufferMemory
-from langchain.chains import ConversationalRetrievalChain
+from langchain_classic.memory import ConversationBufferMemory
+from langchain_classic.chains import ConversationalRetrievalChain
 
 
 from langchain_google_genai import ChatGoogleGenerativeAI
